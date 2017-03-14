@@ -62,7 +62,7 @@ return [
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
             'strict'    => false,
-            'dump_command_path' => 'C:\\xampp\\mysql\\bin',
+            'dump_command_path' => '/opt/lampp/bin',
         ],
 
         'pgsql' => [
