@@ -16,13 +16,31 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 ## Installation
 
-1.  Clone this repo with `git clone https://github.com/JohanQuiroga/PTTI.git`
-1.  On project folder run `composer install`
-1.  Create a MySQL database named **'pttibd'** and import DB structure from `pttibd.sql`
-1.  Create `.env` file with `cp .env.example .env`
-1.  Set needed environment variables on `.env`. Be careful to set the correct Database information.
-1.  On project folder run `php artisan db:seed` or import dummy data from `pttibd.sql`
-1.  To run the project execute `php artisan serve`
+1. Clone this repo with `git clone https://github.com/JohanQuiroga/PTTI.git`
+1. On project folder run `composer install`
+1. Create a MySQL database named **'pttibd'** and import DB structure from `pttibd.sql`
+1. Create `.env` file with `cp .env.example .env`
+1. Set needed environment variables on `.env`. Be careful to set the correct Database information.
+1. On project folder run `php artisan db:seed` or import dummy data from `pttibd.sql`
+
+## Executing the project
+
+1. To run the project execute `php artisan serve`
+1. Head over to http://localhost:8000
+
+You may login using one of the following credentials:
+  + Administrator role:
+    - email: david-0296@hotmail.com
+    - contraseña: admin
+  + Student role:
+    - email: pipe.0325@hotmail.com
+    - contraseña: chimuelo
+  + Psychologist role:
+    - email: valenfranco@hotmail.com
+    - contraseña: psicologo
+  + Root role:
+    - email: root@ptti.com
+    - contraseña: root
 
 ## Problems
 
