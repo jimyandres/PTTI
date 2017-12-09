@@ -14,6 +14,12 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
+## Purpose
+
+The purpose of this project is to give students from different institutions a better psychological support through the tests that are carried out on the platform and by getting feedback from said tests.
+
+Thanks to these, it is easier for the psychologist to identify the student's psychological profile.
+
 ## Installation
 
 1. Clone this repo with `git clone https://github.com/JohanQuiroga/PTTI.git`
