@@ -14,6 +14,20 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
+## Installation
+
+1.  Clone this repo with `git clone https://github.com/JohanQuiroga/PTTI.git`
+1.  On project folder run `composer install`
+1.  Create a MySQL database named **'pttibd'** and import DB structure from `pttibd.sql`
+1.  Create `.env` file with `cp .env.example .env`
+1.  Set needed environment variables on `.env`. Be careful to set the correct Database information.
+1.  On project folder run `php artisan db:seed` or import dummy data from `pttibd.sql`
+1.  To run the project execute `php artisan serve`
+
+## Problems
+
+If you encounter any problem while installing or running this project feel free to open a thoroughly detailed issue on this repo or contact me via e-mail at quirogacj@utp.edu.co
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
