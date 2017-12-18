@@ -22,7 +22,7 @@ Thanks to these, it is easier for the psychologist to identify the student's psy
 
 ## Installation
 
-1. Clone this repo with `git clone https://github.com/JohanQuiroga/PTTI.git`
+1. Clone this repo with `git clone https://github.com/JimyAndres/PTTI.git`
 1. On project folder run `composer install`
 1. Create a MySQL database named **'pttibd'** and import DB structure from `pttibd.sql`
 1. Create `.env` file with `cp .env.example .env`
@@ -50,7 +50,7 @@ You may login using one of the following credentials:
 
 ## Problems
 
-If you encounter any problem while installing or running this project feel free to open a thoroughly detailed issue on this repo or contact me via e-mail at quirogacj@utp.edu.co
+If you encounter any problem while installing or running this project feel free to open a thoroughly detailed issue on this repo or contact me via e-mail at jimyandres@utp.edu.co or to quirogacj@utp.edu.co
 
 ## Contributing
 
